@@ -1,14 +1,12 @@
-
 {
   "hosting": {
-    "source": ".",
+    "source": "hosting",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ],
     "frameworksBackend": {
-      "id": "nextjs",
       "region": "us-central1"
     }
   }
